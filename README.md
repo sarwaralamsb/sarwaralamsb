@@ -1,7 +1,6 @@
 ### Hi, I'm Sarwar Alam Sajib 👋
 
-- 🏫 Currently studying MSc in Computer Science and Engineering at the Technical University of Denmark
-- 💻 Currently learning more about Cybersecurity through the MSc program.
+- 💻 Cybersecurity & Data Analyst | Application Assistant @ Pelican | MSc in CSE (Graduate) @ DTU
 
 
 <!--
