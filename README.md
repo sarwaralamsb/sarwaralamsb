@@ -48,8 +48,11 @@ I’m a **Cybersecurity Specialist** with a **Master’s in Computer Science and
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=sarwaralamsb&show_icons=true&theme=vue-dark&icon_color=00ff00&hide_border=true&cache_seconds=1800" />
   &nbsp;&nbsp;&nbsp;
     &nbsp;&nbsp;&nbsp;
-  <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarwaralamsb&layout=compact&theme=vue-dark&hide_border=true&icon_color=00ff00&langs_count=6" />
-</p>
+  <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarwaralamsb&layout=compact&theme=vue-dark&hide_border=true&icon_color=00ff00&langs_count=6" /></p>
+  
+> [!NOTE]
+> "Most Used Languages" reflect GitHub's record of my public contributions, not my proficiency in the languages or private work.
+
 
 #### 👀 Visitor Count
 <div style="display: flex; align-items: center;">
