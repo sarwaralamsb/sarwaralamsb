@@ -53,9 +53,9 @@ I’m a **Cybersecurity Specialist** with a **Master’s in Computer Science and
 
 #### 👀 Visitor Count
 <div style="display: flex; align-items: center;">
-  <img src="https://profile-counter.glitch.me/sarwaralamsb/count.svg" alt="Visitor Count" style="height: 30px; margin-right: 50px;">
+  <img src="https://profile-counter.glitch.me/sarwaralamsb/count.svg" alt="Visitor Count" style="height: 25px; margin-right: 50px;">
   <a href="https://buymeacoffee.com/sarwaralamsb" style="margin-left: 100px;">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FF813F?style=flat-square&logo=buymeacoffee&logoColor=white" alt="Buy Me A Coffee" style="height: 30px; margin-right: 50px;">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FF813F?style=flat-square&logo=buymeacoffee&logoColor=white" alt="Buy Me A Coffee" style="height: 25px; margin-right: 50px;">
   </a>
 </div>
 
