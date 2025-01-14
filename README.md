@@ -47,10 +47,10 @@ I’m a **Cybersecurity Specialist** with a **Master’s in Computer Science and
 #### 📈 GitHub Stats
 <p align="left">
   <!--<img height="150" src="https://github-readme-stats.vercel.app/api?username=sarwaralamsb&show_icons=true&theme=vue-dark&icon_color=00ff00&hide_border=true&cache_seconds=60" />-->
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=sarwaralamsb&show_icons=true&theme=vue-dark" alt="sarwaralamsb" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sarwaralamsb&show_icons=true&theme=vue-dark" alt="sarwaralamsb" />
   &nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarwaralamsb&theme=vue-dark&layout=normal&hide_border=true&icon_color=00ff00&langs_count=4&hide=html,omnetpp-ned,c,PHP,CSS,omnetpp-msg" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarwaralamsb&theme=vue-dark&layout=normal&hide_border=true&icon_color=00ff00&langs_count=4&hide=html,omnetpp-ned,c,PHP,CSS,omnetpp-msg" />
 </p>
   
 > [!NOTE]
