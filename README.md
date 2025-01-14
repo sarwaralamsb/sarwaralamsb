@@ -1,6 +1,6 @@
 ## <img src="https://github.com/sarwaralamsb/sarwaralamsb/blob/209f93a612bba92f0178dd7e5ee0bd4e9fc0e0b6/wave.gif" width="30" height="30">  Hi, I am Sarwar! 
 
-I’m a **Cybersecurity Specialist** with a **Master’s in Computer Science and Engineering (MSc)** from **DTU**, and over **3 years** of experience as an **Application Assistant at Pelican Self Storage**. I specialize in developing innovative solutions to protect digital spaces, tackle complex security challenges, and leverage my developer skills to create secure applications. Additionally, I’m the founder of **Appera Apps**. 🚀
+I’m a **Cybersecurity Specialist** with a **Master’s in Computer Science and Engineering (MSc)** from **DTU**, and over **3 years** of experience as an **Application Developer** at **Pelican (Denmark)**. I specialize in developing innovative solutions to protect digital spaces, tackle complex security challenges, and leverage my developer skills to create secure applications. Additionally, I’m the founder of **Appera Apps** where I develop smart mobile applications. 🚀
 
 #### 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
