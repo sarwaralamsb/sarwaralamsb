@@ -24,6 +24,7 @@ I’m a **Cybersecurity Specialist** with a **Master’s in Computer Science and
 ![](https://img.shields.io/badge/Python-NumPy-informational?style=flat&logo=numpy&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Python-Matplotlib-informational?style=flat&logo=matplotlib&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Python-Seaborn-informational?style=flat&logo=seaborn&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Python-Streamlit-informational?style=flat&logo=streamlit&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Android%20Studio-informational?style=flat&logo=androidstudio&logoColor=white&color=2bbc8a)
@@ -48,7 +49,7 @@ I’m a **Cybersecurity Specialist** with a **Master’s in Computer Science and
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=sarwaralamsb&show_icons=true&theme=vue-dark&icon_color=00ff00&hide_border=true&cache_seconds=600" />
   &nbsp;&nbsp;&nbsp;
     &nbsp;&nbsp;&nbsp;
-  <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarwaralamsb&layout=compact&theme=vue-dark&hide_border=true&icon_color=00ff00&langs_count=6" /></p>
+  <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarwaralamsb&layout=compact&theme=vue-dark&hide_border=true&icon_color=00ff00&langs_count=6&cache_seconds=600" /></p>
   
 > [!NOTE]
 > "Most Used Languages" reflect GitHub's record of my public contributions, not my proficiency in the languages or private work.
