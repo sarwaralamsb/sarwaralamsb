@@ -56,7 +56,6 @@ I’m a **Cybersecurity Specialist** with a **Master’s in Computer Science and
 > [!NOTE]
 > "Most Used Languages" reflect GitHub's record of my public contributions, not my proficiency in the languages or private work.
 
-
 #### 👀 Visitor Count
 <div style="display: flex; align-items: center;">
   <img src="https://profile-counter.glitch.me/sarwaralamsb/count.svg" alt="Visitor Count" style="height: 25px; margin-right: 50px;">
